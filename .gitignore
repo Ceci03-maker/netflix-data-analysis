@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+
+# The Kaggle dataset is kept locally and is not committed.
+data/netflix_titles.csv
